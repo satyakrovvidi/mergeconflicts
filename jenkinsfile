@@ -1,3 +1,8 @@
 ## this is jenkins file
 pipeline{
+
+  agent {
+    label 'docker slave'
+  }
 }
+
