@@ -1,3 +1,7 @@
 ## this is jenkins file
 pipeline{
+ agent {
+label 'any'
 }
+}
+
