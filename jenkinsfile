@@ -4,4 +4,3 @@ pipeline{
     label 'docker slave'
   }
 }
-
